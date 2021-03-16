@@ -6,7 +6,7 @@ namespace Work_Contract
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
